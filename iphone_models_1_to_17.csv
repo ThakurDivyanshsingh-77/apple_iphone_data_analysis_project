@@ -1,0 +1,18 @@
+model_name,launch_year,display_size_inch,processor,camera_specifications,battery_capacity_mAh,special_features,launch_price_usd,estimated_production_cost_usd,units_sold_million
+iPhone 1,2007,3.5,ARM11,2MP single rear,1400,"2G, Multi-Touch",499,220,6.1
+iPhone 2,2008,3.5,ARM11,2MP single rear,1150,"3G, App Store, GPS",599,240,15.4
+iPhone 3,2009,3.5,Cortex-A8,3MP single rear,1219,"Video Recording, Voice Control",599,250,20.7
+iPhone 4,2010,3.5,Apple A4,5MP rear + VGA front,1420,"Retina Display, FaceTime",649,280,40.0
+iPhone 5,2011,3.5,Apple A5,8MP rear + VGA front,1432,"Siri, iCloud",649,300,72.3
+iPhone 6,2012,4.0,Apple A6,8MP rear + 1.2MP front,1440,"4-inch Display, Lightning Port",649,320,125.0
+iPhone 7,2013,4.0,Apple A7,8MP rear + 1.2MP front,1560,"Touch ID, 64-bit Chip",649,330,150.2
+iPhone 8,2014,4.7,Apple A8,8MP rear + 1.2MP front,1810,"Apple Pay, Larger Display",649,360,222.4
+iPhone 9,2015,4.7,Apple A9,12MP rear + 5MP front,1715,"3D Touch, Live Photos",649,375,174.1
+iPhone 10,2016,4.7,Apple A10 Fusion,12MP rear + 7MP front,1960,"Water Resistance, Stereo Speakers",649,390,159.3
+iPhone 11,2017,4.7,Apple A11 Bionic,12MP rear + 7MP front,1821,"Wireless Charging, True Tone, Touch ID",699,410,124.7
+iPhone 12,2018,5.8,Apple A12 Bionic,12MP dual rear + 7MP front,2716,"Face ID, OLED Display, Gesture Navigation",999,470,63.0
+iPhone 13,2019,6.1,Apple A13 Bionic,12MP dual rear + 12MP front,3110,"Night Mode, U1 Chip, Face ID",699,430,159.2
+iPhone 14,2020,6.1,Apple A14 Bionic,12MP dual rear + 12MP front,2815,"5G, MagSafe, Face ID",799,460,201.0
+iPhone 15,2021,6.1,Apple A15 Bionic,12MP dual rear + 12MP front,3227,"Cinematic Mode, Sensor Shift OIS, 5G, Face ID",799,470,176.8
+iPhone 16,2024,6.3,Apple A18,48MP dual rear + 12MP front,3561,"Dynamic Island, 5G, Face ID, Always-On Display",899,520,112.5
+iPhone 17,2025,6.3,Apple A19,48MP triple rear + 12MP front,3700,"USB-C, Dynamic Island, 5G, Face ID, On-Device AI",999,560,98.4
